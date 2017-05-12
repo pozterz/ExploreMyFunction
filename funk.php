@@ -48,11 +48,6 @@ function getFunction($path,$file){
 	<title></title>
 	<link rel="stylesheet" href="public/bulma.min.css">
 	<script src="public/angular.min.js" type="text/javascript" charset="utf-8" async defer></script>
-	<style type="text/css" media="screen">
-		div {
-    	white-space:pre-line;
-		}
-	</style>	
 </head>
 <body>
 <div class="container" ng-app="App" ng-controller="AppCtrl">
